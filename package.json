@@ -1,0 +1,22 @@
+{
+  "name": "copay-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "bitcore-wallet-client": "^8.22.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.0",
+    "npmlog": "^4.1.2",
+    "read": "^1.0.7",
+    "sjcl": "^1.0.8",
+    "url": "^0.11.0"
+  }
+}
